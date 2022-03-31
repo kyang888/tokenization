@@ -1,5 +1,5 @@
  # Bert Tokenzation
- - 实现分词后token到raw_text_char的映射关系。
+ - 回顾bert的tokenzation，并实现分词后token到raw_text_char的映射关系。
  - tokenization_bert.py 原始的bert分词方式
    ```
       tokenizer = FullTokenizer("vocab.txt")
